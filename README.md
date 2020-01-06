@@ -1,5 +1,5 @@
 # zhaoshuai-sup.github.io
-## 被忽略的文件夹
+## .gitignore的目的
 ### themes
 保存主题样式的文件  
 主题用其他的仓库管理
